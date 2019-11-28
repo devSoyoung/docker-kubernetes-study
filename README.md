@@ -1,6 +1,8 @@
 # docker-kubernetes-study
 **[도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문]** 책을 통해 공부한 내용을 정리합니다.
 
+> 책의 예제를 실행하며 발생한 오류의 해결과정이나 함께 참고한 글, 수업에서 배웠던 내용을 추가로 정리했습니다.
+
 ***
 
 # 목차
@@ -18,6 +20,11 @@
 * [컴포즈로 여러 컨테이너 실행하기](https://github.com/devSoyoung/docker-kubernetes-study/blob/master/02/06.md)
 
 ## 3장, 컨테이너 실전 구축 및 배포
+* [애플리케이션과 시스템 내 단일 컨테이너의 적정 비중](https://github.com/devSoyoung/docker-kubernetes-study/blob/master/03/01.md)
+* [컨테이너의 이식성](https://github.com/devSoyoung/docker-kubernetes-study/blob/master/03/02.md)
+* [도커 친화적인 애플리케이션](https://github.com/devSoyoung/docker-kubernetes-study/blob/master/03/03.md)
+* [퍼시스턴스 데이터를 다루는 방법](https://github.com/devSoyoung/docker-kubernetes-study/blob/master/03/04.md)
+* [컨테이너 배치 전략](https://github.com/devSoyoung/docker-kubernetes-study/blob/master/03/05.md)
 
 ## 4장, 스웜을 이용한 실전 어플리케이션 개발
 ## 5장, 쿠버네티스 입문
